@@ -1,0 +1,5 @@
+name: IronShulker
+main: com.hacdan.IronShulker.App
+description: Iron Shulker Crafting Recipe
+version: ${project.version}
+api-version: 1.21.4
